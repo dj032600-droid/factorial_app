@@ -58,3 +58,11 @@
 -   **반복 vs 재귀 구현 차이** 이해\
 -   **실행 시간 비교**를 통한 성능 이해\
 -   **메뉴 기반 콘솔 프로그램 설계** 연습
+
+
+
+
+
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/10659185-1a8b-413a-aec0-699fbe8bc930" />
+
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/7224423e-e9a1-4e8f-943b-9a241cb65fa6" />
